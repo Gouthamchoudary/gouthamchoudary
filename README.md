@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Myself Goutham Choudary, currently studying in NITW pursuing my btech.
+interested in coding and application development.
 <!--
 **Gouthamchoudary/gouthamchoudary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
